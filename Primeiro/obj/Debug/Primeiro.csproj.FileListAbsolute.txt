@@ -1,0 +1,8 @@
+C:\temp\ws-vs2023\Primeiro\Primeiro\bin\Debug\Primeiro.exe.config
+C:\temp\ws-vs2023\Primeiro\Primeiro\bin\Debug\Primeiro.exe
+C:\temp\ws-vs2023\Primeiro\Primeiro\bin\Debug\Primeiro.pdb
+C:\temp\ws-vs2023\Primeiro\Primeiro\obj\Debug\Primeiro.csproj.AssemblyReference.cache
+C:\temp\ws-vs2023\Primeiro\Primeiro\obj\Debug\Primeiro.csproj.SuggestedBindingRedirects.cache
+C:\temp\ws-vs2023\Primeiro\Primeiro\obj\Debug\Primeiro.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2023\Primeiro\Primeiro\obj\Debug\Primeiro.exe
+C:\temp\ws-vs2023\Primeiro\Primeiro\obj\Debug\Primeiro.pdb

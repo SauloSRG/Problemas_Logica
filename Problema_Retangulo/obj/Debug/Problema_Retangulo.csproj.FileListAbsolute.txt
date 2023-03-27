@@ -1,0 +1,8 @@
+C:\temp\ws-vs2023\Primeiro\Problema_Retangulo\bin\Debug\Problema_Retangulo.exe.config
+C:\temp\ws-vs2023\Primeiro\Problema_Retangulo\bin\Debug\Problema_Retangulo.exe
+C:\temp\ws-vs2023\Primeiro\Problema_Retangulo\bin\Debug\Problema_Retangulo.pdb
+C:\temp\ws-vs2023\Primeiro\Problema_Retangulo\obj\Debug\Problema_Retangulo.csproj.AssemblyReference.cache
+C:\temp\ws-vs2023\Primeiro\Problema_Retangulo\obj\Debug\Problema_Retangulo.csproj.SuggestedBindingRedirects.cache
+C:\temp\ws-vs2023\Primeiro\Problema_Retangulo\obj\Debug\Problema_Retangulo.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2023\Primeiro\Problema_Retangulo\obj\Debug\Problema_Retangulo.exe
+C:\temp\ws-vs2023\Primeiro\Problema_Retangulo\obj\Debug\Problema_Retangulo.pdb

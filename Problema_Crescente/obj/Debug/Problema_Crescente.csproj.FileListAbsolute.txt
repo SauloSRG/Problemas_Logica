@@ -1,0 +1,8 @@
+C:\temp\ws-vs2023\Primeiro\Problema_Crescente\bin\Debug\Problema_Crescente.exe.config
+C:\temp\ws-vs2023\Primeiro\Problema_Crescente\bin\Debug\Problema_Crescente.exe
+C:\temp\ws-vs2023\Primeiro\Problema_Crescente\bin\Debug\Problema_Crescente.pdb
+C:\temp\ws-vs2023\Primeiro\Problema_Crescente\obj\Debug\Problema_Crescente.csproj.AssemblyReference.cache
+C:\temp\ws-vs2023\Primeiro\Problema_Crescente\obj\Debug\Problema_Crescente.csproj.SuggestedBindingRedirects.cache
+C:\temp\ws-vs2023\Primeiro\Problema_Crescente\obj\Debug\Problema_Crescente.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2023\Primeiro\Problema_Crescente\obj\Debug\Problema_Crescente.exe
+C:\temp\ws-vs2023\Primeiro\Problema_Crescente\obj\Debug\Problema_Crescente.pdb

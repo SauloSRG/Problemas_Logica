@@ -1,0 +1,8 @@
+C:\temp\ws-vs2023\Primeiro\Problema_soma_impares\obj\Debug\Problema_soma_impares.csproj.AssemblyReference.cache
+C:\temp\ws-vs2023\Primeiro\Problema_soma_impares\obj\Debug\Problema_soma_impares.csproj.SuggestedBindingRedirects.cache
+C:\temp\ws-vs2023\Primeiro\Problema_soma_impares\obj\Debug\Problema_soma_impares.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2023\Primeiro\Problema_soma_impares\bin\Debug\Problema_soma_impares.exe.config
+C:\temp\ws-vs2023\Primeiro\Problema_soma_impares\bin\Debug\Problema_soma_impares.exe
+C:\temp\ws-vs2023\Primeiro\Problema_soma_impares\bin\Debug\Problema_soma_impares.pdb
+C:\temp\ws-vs2023\Primeiro\Problema_soma_impares\obj\Debug\Problema_soma_impares.exe
+C:\temp\ws-vs2023\Primeiro\Problema_soma_impares\obj\Debug\Problema_soma_impares.pdb

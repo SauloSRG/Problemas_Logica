@@ -1,0 +1,8 @@
+C:\temp\ws-vs2023\Primeiro\Problema_Menor_de_tres\bin\Debug\Problema_Menor_de_tres.exe.config
+C:\temp\ws-vs2023\Primeiro\Problema_Menor_de_tres\bin\Debug\Problema_Menor_de_tres.exe
+C:\temp\ws-vs2023\Primeiro\Problema_Menor_de_tres\bin\Debug\Problema_Menor_de_tres.pdb
+C:\temp\ws-vs2023\Primeiro\Problema_Menor_de_tres\obj\Debug\Problema_Menor_de_tres.csproj.AssemblyReference.cache
+C:\temp\ws-vs2023\Primeiro\Problema_Menor_de_tres\obj\Debug\Problema_Menor_de_tres.csproj.SuggestedBindingRedirects.cache
+C:\temp\ws-vs2023\Primeiro\Problema_Menor_de_tres\obj\Debug\Problema_Menor_de_tres.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2023\Primeiro\Problema_Menor_de_tres\obj\Debug\Problema_Menor_de_tres.exe
+C:\temp\ws-vs2023\Primeiro\Problema_Menor_de_tres\obj\Debug\Problema_Menor_de_tres.pdb

@@ -1,0 +1,8 @@
+C:\temp\ws-vs2023\Primeiro\Problema_diagonal_negativos\obj\Debug\Problema_diagonal_negativos.csproj.AssemblyReference.cache
+C:\temp\ws-vs2023\Primeiro\Problema_diagonal_negativos\obj\Debug\Problema_diagonal_negativos.csproj.SuggestedBindingRedirects.cache
+C:\temp\ws-vs2023\Primeiro\Problema_diagonal_negativos\obj\Debug\Problema_diagonal_negativos.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2023\Primeiro\Problema_diagonal_negativos\bin\Debug\Problema_diagonal_negativos.exe.config
+C:\temp\ws-vs2023\Primeiro\Problema_diagonal_negativos\bin\Debug\Problema_diagonal_negativos.exe
+C:\temp\ws-vs2023\Primeiro\Problema_diagonal_negativos\bin\Debug\Problema_diagonal_negativos.pdb
+C:\temp\ws-vs2023\Primeiro\Problema_diagonal_negativos\obj\Debug\Problema_diagonal_negativos.exe
+C:\temp\ws-vs2023\Primeiro\Problema_diagonal_negativos\obj\Debug\Problema_diagonal_negativos.pdb

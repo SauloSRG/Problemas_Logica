@@ -1,0 +1,8 @@
+C:\temp\ws-vs2023\Primeiro\Problema_soma_vetor\bin\Debug\Problema_soma_vetor.exe.config
+C:\temp\ws-vs2023\Primeiro\Problema_soma_vetor\bin\Debug\Problema_soma_vetor.exe
+C:\temp\ws-vs2023\Primeiro\Problema_soma_vetor\bin\Debug\Problema_soma_vetor.pdb
+C:\temp\ws-vs2023\Primeiro\Problema_soma_vetor\obj\Debug\Problema_soma_vetor.csproj.AssemblyReference.cache
+C:\temp\ws-vs2023\Primeiro\Problema_soma_vetor\obj\Debug\Problema_soma_vetor.csproj.SuggestedBindingRedirects.cache
+C:\temp\ws-vs2023\Primeiro\Problema_soma_vetor\obj\Debug\Problema_soma_vetor.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2023\Primeiro\Problema_soma_vetor\obj\Debug\Problema_soma_vetor.exe
+C:\temp\ws-vs2023\Primeiro\Problema_soma_vetor\obj\Debug\Problema_soma_vetor.pdb

@@ -1,0 +1,8 @@
+C:\temp\ws-vs2023\Primeiro\Problema_Idades\bin\Debug\Problema_Idades.exe.config
+C:\temp\ws-vs2023\Primeiro\Problema_Idades\bin\Debug\Problema_Idades.exe
+C:\temp\ws-vs2023\Primeiro\Problema_Idades\bin\Debug\Problema_Idades.pdb
+C:\temp\ws-vs2023\Primeiro\Problema_Idades\obj\Debug\Problema_Idades.csproj.AssemblyReference.cache
+C:\temp\ws-vs2023\Primeiro\Problema_Idades\obj\Debug\Problema_Idades.csproj.SuggestedBindingRedirects.cache
+C:\temp\ws-vs2023\Primeiro\Problema_Idades\obj\Debug\Problema_Idades.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2023\Primeiro\Problema_Idades\obj\Debug\Problema_Idades.exe
+C:\temp\ws-vs2023\Primeiro\Problema_Idades\obj\Debug\Problema_Idades.pdb
